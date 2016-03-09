@@ -1,0 +1,2 @@
+#the trick is the \e[8m in this command
+echo -e "\e[1;19m the shell will become unvisible! \e[8m"
