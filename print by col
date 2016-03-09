@@ -1,0 +1,3 @@
+#This can print the words in a column
+#The trick is the \n
+printf "%-20s\n" you are awesome
