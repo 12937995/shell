@@ -1,3 +1,6 @@
 #!/bin/bash
 #dec to bin
 echo "obase=2;$1" | bc
+#reverse
+#echo "obase=10;ibase=2;$1" | bc
+
